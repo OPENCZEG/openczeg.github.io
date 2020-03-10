@@ -1,7 +1,8 @@
 ---
-title: O #openczeg
-description: Pár slov o naší značce a o naší alianci a o tom co děláme
+title: "O #openczeg"
+subtitle: Pár slov o naší značce a o naší alianci a o tom co děláme
 layout: page
+date: 2020-03-10
 order: 9
 ---
 
