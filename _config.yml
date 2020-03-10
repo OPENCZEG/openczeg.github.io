@@ -18,7 +18,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-    <h1>Vítejte na webu #openczeg</h1><h2>Aktuální příspěvky</h2>
+    
   header_text_feature_image:
   footer_text: >
     <p>© 2020 Opensource aliance</p>
