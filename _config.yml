@@ -32,7 +32,7 @@ theme_settings:
   facebook: 
   flickr:
   gitlab:
-  github: 
+  github: openczeg
   gitter:
   google_plus:
   instagram:
@@ -43,7 +43,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter: openczeg
   wordpress:
   youtube:
 
