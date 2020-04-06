@@ -1,7 +1,7 @@
 ---
 title: Naše aktivity
 layout: page
-subtitle: Co jsme pro vás v rámci #openczeg připravili a co chystáme...
+subtitle: Co jsme pro vás v rámci openczeg připravili a co chystáme...
 order: 5
 ---
 
