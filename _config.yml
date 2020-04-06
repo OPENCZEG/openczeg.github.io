@@ -2,7 +2,8 @@ remote_theme: rohanchandra/type-theme
 
 collections:
   aktivity:
-    output: true must be specified on the collection, which requires defining the collection as a 
+    sort_by: order
+
 
 
 # SITE CONFIGURATION
