@@ -1,6 +1,6 @@
 ---
 title: Návrh vyhlášky o seznamu položek popisu informačního systému veřejné správy
-subtitle: N<ul>ová vyhláška nahrazuje starou úpravu informací o jednotlivých systémech <li> Kromě základních informací se povedou i údaje o projektových fázích <li> Bude obsahovat nově i základní aplikační architekturu systému </ul>
+subtitle: <ul>Nová vyhláška nahrazuje starou úpravu informací o jednotlivých systémech <li> Kromě základních informací se povedou i údaje o projektových fázích <li> Bude obsahovat nově i základní aplikační architekturu systému </ul>
 author: openczeg
 category: legislativa 
 tags: legislativa, ISVS, povinnosti
