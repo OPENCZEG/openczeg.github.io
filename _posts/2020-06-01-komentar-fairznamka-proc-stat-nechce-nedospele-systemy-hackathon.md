@@ -1,5 +1,6 @@
 ---
 title: "Komentář: Proč stát nechce nedospělé systémy z hackathonů?"
+subtitle: <ul><li>Hackathon na dálniční známky byl skvělý pokus o agylní vývoj, ale nepovedlo se to.<li>Proč říkám takovým projektům nedospělé a co dělat jinak?<li>Nebojte se vývoje pro veřejnou správu, ale potřebujete hodně znalostí.</ul>
 author: Michal Rada
 category: [clanky]
 tags: [Vývoj, Autorské články, Komentáře, ISVS]
