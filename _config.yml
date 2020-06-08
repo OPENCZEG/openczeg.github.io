@@ -8,7 +8,7 @@ collections:
 
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://openczeg.github.io/"
+url: "https://www.openczeg.cz/"
 
 
 
@@ -27,7 +27,7 @@ theme_settings:
     
   header_text_feature_image:
   footer_text: >
-    <p>© 2020 Opensource aliance</p>
+    <p>© 2020 <a href="http://www.osaliance.cz">Opensource aliance</a> | <a href="/zapojte-se.html">Zapojte se</a></p>
 
   # Icons
   rss: true
