@@ -1,6 +1,6 @@
 --- 
-Title: Návrh zákona, kterým se mění zákon č. 123/1998 Sb., o právu na informace o životním prostředí bude mít otevírací novelu
-Subtitle: Začíná se projednávat novela týkající se koordinace a sjednocování INSPIRE
+Tttle: Návrh zákona, kterým se mění zákon č. 123/1998 Sb., o právu na informace o životním prostředí bude mít otevírací novelu
+subtitle: Začíná se projednávat novela týkající se koordinace a sjednocování INSPIRE
 author: Redakce
 tags: [legislativa, opendata, EU]
 ---
