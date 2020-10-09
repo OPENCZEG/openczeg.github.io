@@ -26,4 +26,4 @@ Podle našeho názoru má námi zpracovaný vzorový řád, oproti konkurenční
 7. Přílohy, pro přehlednost, uvádí ty věci, které se spisovým řádem sice souvisí, ale je lepší je uvádět na snadno dostupném místě, nikoliv někde v textu.
 8. Do tohoto řádu jsme doplnili věci, které v dosavadních řádech nejsou a týkají se zejména moderního vedení spisové služby. Týká se to i využívání a vedení spisové služby za mimořádných situací a událostí.
 
-Na veřejném GITu [je k dispozici](https://github.com/OPENCZEG/czeg_tools/tree/master/templates/vzorovy_spisovy_rad_ESSL_moderni/)  v rámci knihovny CZEG_TOOLS publikována první betaverze 0.1, nad kterou teď bude probíhat veřejná diskuse.
+Na veřejném GITu [je k dispozici](https://github.com/OPENCZEG/czeg_tools/tree/master/templates/vzorovy_spisovy_rad_ESSL_moderni/v0.1)  v rámci knihovny CZEG_TOOLS publikována první betaverze 0.1, nad kterou teď bude probíhat veřejná diskuse.
