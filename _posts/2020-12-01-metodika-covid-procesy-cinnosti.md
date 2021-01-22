@@ -18,4 +18,4 @@ V případě mimořádné situace, a to zejména tehdy, kdy tato mimořádná si
 
 Metodika je pochopitelně publikována pro veřejné použití a byla distribuována i úřadům.
 
-> Projekt Digitální úřad, Projekt #openczeg (2020): Metodický návod Jak na Změny v agendách a procesech za mimořádných situací | Web Otevřené metodiky: http://www.openczeg.cz//otevrene-metodiky/procesy/zmeny-procesu-cinnosti-za-mimoradnych-situaci/
+> Projekt Digitální úřad, Projekt #openczeg (2020): Metodický návod Jak na Změny v agendách a procesech za mimořádných situací  Web Otevřené metodiky: http://www.openczeg.cz//otevrene-metodiky/procesy/zmeny-procesu-cinnosti-za-mimoradnych-situaci/
