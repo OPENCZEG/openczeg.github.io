@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cs" xml:lang="cs">
+<head>
+<!-- 2021-01-22 pá 10:09 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mapa povinností - dokumentace a návod k využití</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="skupina partnerů a realizátor projektu Digitální úřad" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Mapa povinností - dokumentace a návod k využití</h1>
+<p>
+Toto je dokumentace obsahu a využití Mapy EG povinností a dokumentace, jak s ní pracovat pro naplnění všech souvisejících povinností zejména pro orgány veřejné správy a ostatní úřady a subjekty.
+</p>
+
+<p>
+Mapu povinností a veškerou související dokumentaci naleznete na adrese
+</p>
+
+<p>
+<a href="https://www.openczeg.cz/povinnosti">https://www.openczeg.cz/povinnosti</a>
+</p>
+
+
+<div id="outline-container-orgc9e786e" class="outline-2">
+<h2 id="orgc9e786e"><span class="section-number-2">1</span> <span class="done HOTOVO">HOTOVO</span> <a id="org37c2d3e">Mapa EG povinností</a></h2>
+<div class="outline-text-2" id="text-1">
+<p>
+V rámci realizace projektu Digitální úřad ve spolupráci s
+  Open-source Aliancí a dalšími partnery postupně připravujeme mapu
+  povinností k eGovernmentu. Tato mapa povinností slouží zejména
+  orgánům veřejné moci a dalším subjektům majícím určité povinnosti v
+  rámci elektronizace a digitalizace.
+</p>
+</div>
+<div id="outline-container-orgf9549c9" class="outline-3">
+<h3 id="orgf9549c9"><span class="section-number-3">1.1</span> <span class="done HOTOVO">HOTOVO</span> Co je mapa povinností a k čemu slouží</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+<a href="#org37c2d3e">Mapa EG povinností</a> je souborem povinností týkajících se ICT,
+eGovernmentu a architektury, které plynou z jednotlivých právních
+předpisů a dalších závazných předpisů a dokumentů. Postupně se tak
+buduje báze znalostí o povinnostech, které jednotlivé druhy subjektů
+mají. U každého úřadu tak může na základě těchto znalostí vznikat
+zhodnocení (assessment) naplňování povinností z jejich strany, tedy
+vyžaduje jí <a href="#org5bb95d4">Tvorba assesmentu plnění povinností na základě mapy povinností</a>.
+</p>
+
+<p>
+Mapu  povinností může kdokoliv využít pro základní přehled toho, co musí obecně v rámci elektronizace a digitalizace plnit a podle jakého konkrétního právního předpisu takovou povinnost má. To jsou důležité znalosti, aby si úřad dokázal představit, jak bude dané obecné povinnosti plnit. A samozřejmě se to netýká jen úřadů či orgánů veřejné moci, ale všech skupin subjektů.
+</p>
+
+<p>
+Mapu povinností a její obsah lze obecně použít kupříkladu k následujícímu:
+</p>
+
+<ol class="org-ol">
+<li>Jako základní znalost o obecných povinnostech, které nejsou formou úkonů a služeb v RPP, ale jsou důležité obdobně</li>
+<li>Soubor toho, co jako povinnost musí někdo obecně naplňovat a zajistit si tak její plnění na procesní, architektonické, technické vrstvě</li>
+<li>Podklad pro kvalitnější řízení ICT pro splnění povinností EG legislativy</li>
+<li>Podklad pro závaznou část příloh k Informační koncepci OVS u těch,
+kteří mají povinnost mít a udržovat a vyhodnocovat svoji
+informační koncepci - <a href="#org5bb95d4">Tvorba assesmentu plnění povinností na základě mapy povinností</a></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org338cb37" class="outline-3">
+<h3 id="org338cb37"><span class="section-number-3">1.2</span> <span class="done HOTOVO">HOTOVO</span> Co je obsahem mapy povinností</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Jedná se o data o jednotlivých klíčových povinnostech. Datová sada
+obsahuje vymezené povinnosti, jejich legislativní určení a také
+subjekty, kterých se povinnosti týkají.
+</p>
+
+<p>
+Každá povinnost má uvedený formální název, popis většinou založený
+na znění konkrétního ustanovení právního předpisu, určující
+ustanovení, skupiny subjektů, stav a zdroj. Povinnosti jsou
+kategorizovány do jednotlivých věcných skupin podle oblastí,
+kterých se týkají.
+</p>
+
+<p>
+<a id="org3ba8d84">Struktura záznamu o povinnosti v Mapě povinností</a> je následující:
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Pole</th>
+<th scope="col" class="org-left">Druh</th>
+<th scope="col" class="org-left">Popis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Název</td>
+<td class="org-left">Text</td>
+<td class="org-left">Formální název povinnosti. Na název se lze odkazovat, v rámci architektury jde o název prvku.</td>
+</tr>
+
+<tr>
+<td class="org-left">Popis</td>
+<td class="org-left">Odstavec</td>
+<td class="org-left">Popis povinnosti, většinou založený na znění příslušného ustanovení v legislativě. V rámci architektury se jedná o popis/dokumentaci prvku.</td>
+</tr>
+
+<tr>
+<td class="org-left">Určuje</td>
+<td class="org-left">Hodnoty</td>
+<td class="org-left">Seznam definovaných hodnot konkrétních či obecných ustanovení nebo předpisů, které povinnost definují. Jednotlivé hodnoty (kterých může být i více) jsou oddělené čárkou. Hodnoty mají strukturu podle toho, o jakou úroveň a typ ustanovení či předpisu se jedná. Z pohledu architektury jde o atribut prvku. Podle těchto hodnot se lze odkazovat na konkrétní ustanovení či předpisy.</td>
+</tr>
+
+<tr>
+<td class="org-left">Druh</td>
+<td class="org-left">Číselník</td>
+<td class="org-left">Druh prvku. Tedy především to, že jde o povinnost. V některých případech může jít i o jiný prvek, pak je uveden jako jiný druh. Z pohledu architektur jde o stereotyp objektu a atribut prvku Stereotype.</td>
+</tr>
+
+<tr>
+<td class="org-left">Skupina</td>
+<td class="org-left">Číselník</td>
+<td class="org-left">Skupina kategorie povinností. Z pohledu architektury jde o grouping objekt.</td>
+</tr>
+
+<tr>
+<td class="org-left">Subjekty</td>
+<td class="org-left">Multičíselník</td>
+<td class="org-left">Jednotlivé skupiny subjektů, kterých se tato povinnost týká, nebo jednotlivé subjekty. Reprezentuje se hodnotami číselníku subjektů a hodnotami číselníku druhů subjektů použitých pro roztřídění v mapě povinností. Z pohledu architektury jde o atribut a o cíl vazby na skupinu či role.</td>
+</tr>
+
+<tr>
+<td class="org-left">Předpisy</td>
+<td class="org-left">Multičíselník</td>
+<td class="org-left">Jednotlivé zkratkové názvy předpisů, které se povinností týkají. Nemusí být shodné s předpisy uvedenými v legislativním určení povinnosti. Může mít více hodnot, hodnoty jsou oddělené čárkami.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org681aded" class="outline-3">
+<h3 id="org681aded"><span class="section-number-3">1.3</span> <span class="done HOTOVO">HOTOVO</span> Kategorizace v mapě povinností</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Povinností je několik set, a proto je nutné je roztřídit a
+zavést určitou strukturu tak, aby byly pochopitelné a dostupné.
+</p>
+</div>
+
+<div id="outline-container-org2370f2b" class="outline-4">
+<h4 id="org2370f2b"><span class="section-number-4">1.3.1</span> <span class="done HOTOVO">HOTOVO</span> Kategorizace povinností do skupin</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<p>
+Povinnosti jsou rozdělené do jednotlivých skupin, což jsou defacto oblasti, kterých se týkají. Jedna povinnost může být zařazena do více skupin, ale každá povinnost alespoň v jedné skupině musí být vždy.
+</p>
+
+<p>
+Jednotlivé skupiny definuje číselník Skupiny EG povinností, jež je publikován i v rámci <a href="https://airtable.com/shrdLeDBISri89ul1/tbldjHrrcqLD20BeR">Publikované číselníky</a>
+</p>
+</div>
+</div>
+<div id="outline-container-org67ced4c" class="outline-4">
+<h4 id="org67ced4c"><span class="section-number-4">1.3.2</span> <span class="done HOTOVO">HOTOVO</span> Kategorizace podle subjektů</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<p>
+Povinnosti se týkají subjektů, které mají povinnosti naplňovat. Jsou dva druhy subjektů. Jedná se o konkrétní subjekty jednotlivě (kupříkladu Ministerstvo vnitra ČR, Ministerstvo financí ČR, Vláda ČR apod.) a o skupiny více subjektů (všichni veřejnoprávní původci, všechny orgány veřejné moci, všechny orgány veřejné správy, správci určených informačních systémů apod.).
+</p>
+
+<p>
+Jednotlivé skupiny definuje číselník Subjekty povinností, jež je publikován i v rámci <a href="https://airtable.com/shrdLeDBISri89ul1/tbldjHrrcqLD20BeR">Publikované číselníky</a>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orge9aaf77" class="outline-3">
+<h3 id="orge9aaf77"><span class="section-number-3">1.4</span> <span class="done HOTOVO">HOTOVO</span> Aplikace a data Mapy povinností</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Mapa povinností je publikována široké veřejnosti jako datová
+sada. Strukturu datové sady určuje <a href="#org3ba8d84">struktura záznamu o povinnosti v Mapě povinností</a>.
+</p>
+
+<p>
+Tato data jsou prezentována ve formě datové sady otevřených dat a lze je stáhnout, nebo procházet prostřednictvím webové aplikace. Jde o webovou aplikaci pro procházení a publikací dat formou datové sady. Datová sada má svoji danou strukturu (pole ve formě záhlaví) a data v jednotlivých záznamech (jednotlivé řádky tabulky). Data se zobrazují v přehledné tabulce.
+</p>
+
+<p>
+Dvojím kliknutím na řádek záznamu se otevře okno s jeho podrobnostmi, kde jsou vidět přehledně všechna jeho pole a obsah. Okno s podrobnostmi záznamu lze zavřít kliknutím na příslušné tlačítko a nebo klávesou ESC, popřípadě vybráním jiného záznamu v levé části seznamu.
+</p>
+
+<p>
+V horní části je panel nástrojů s několika tlačítky:
+</p>
+
+<ul class="org-ul">
+<li>Tlačítko <b><b>Hide fields</b></b>: Umožňuje vybrat, která pole u jednotlivých záznamů budou zobrazena a nebo zkryta a která se zařadí do exportu dat. Při rozkliknutí jednotlivých záznamů lze vždy zobrazit i všechna zkrytá pole.</li>
+<li>Tlačítko <b><b>Group rows</b></b>: Umožňuje nastavit podle jakých polí se budou záznamy seskupovat pro jejich větší přehlednost. Jednotlivé skupiny lze snadno rozbalovt a zabalovat, aby se zobrazovala jen ta data, která vás právě zajímají a to přehledně.</li>
+<li>Tlačítko <b><b>Filter rows</b></b>: Umožňuje nastavit různá kritéria pro filtrování zobrazených záznamů. Můžete si s pomocí filtrů zobrazit jen ty záznamy, kter´vás právě zajímají, nebo vymazat všechny filtry a zobrazit si všechny.</li>
+<li>Tlačítko <b><b>Sort rows</b></b>: Umožňuje nastavit, podle jakých polí se zobrazené záznamy budou řadit. Můžete řadit i podle více polí v určitém pořadí.</li>
+<li>Tlačítko <b><b>&#x2026;</b></b>: Zobrazí nabídku dalších možností práce s vybranými daty. V této nabídce najdete třeba příkaz pro tisk tabulky dat, nebo export do CSV souboru pro další práci mimo aplikaci.</li>
+</ul>
+
+<p>
+Pokud kdykoliv stisknete klávesovou zkratku CTRL+F otevře se hledání, kde postupným napsáním určité fráze můžete rychle vyhledat požadovaný záznam.
+</p>
+
+<p>
+Data můžete v rámci webové aplikace libovolně procházet, filtrovat a seskupovat, pochopitelně je nemůžete nijak měnit. Nebojte se si tabulku upravit podle svého, ostatní uživatelé vaše úpravy neuvidí a budou si moci tabulku přizpsůobit pro sebe.
+</p>
+
+<p>
+Datovou sadu lze také exportovt jako datový soubor CSV. Soubor bude obsahovat v prvním řádku záhlaví s jednotlivými poli a na jednotlivých řádcích pak jednotlivé záznamy. S formátem CSV umí dnes pracovat každý databázový software či tabulkový editor, třeba Excel, Numbers, Google Sheets, apod. Tímto způsobem můžete data používat v jakékoliv svojí aplikaci.
+</p>
+
+<p>
+Datovou sadu lze také používat jako zdroj dat, záleží na příslušné aplikaci, jakým způsobem data bude schopna používat. Pro více informací klikněte na tlačítko <b><b>Use this data</b></b> ve webové aplikaci. Podporovány jsou aplikace na platformě Airtable, ale i aplikace využívající standardy pro vzdálené datové zdroje.
+</p>
+
+<p>
+Webová aplikace pro publikaci dat splňuje požadavky stanovené povinnostmi Zveřejnit veřejné seznamy a rejstříky v elektronické podobě podle § 5 odst. 5 zákona 106/1999 a Publikovat informace jako otevřená data podle § 4b odst. 2 zákona 106/1999 co se týče technických požadavků na data a datové sady.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org53f0ef1" class="outline-2">
+<h2 id="org53f0ef1"><span class="section-number-2">2</span> <span class="done HOTOVO">HOTOVO</span> <a id="org5bb95d4">Tvorba assesmentu plnění povinností na základě mapy povinností</a></h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Jedním z hlavních důvodů proč je vytvářena <a href="#org37c2d3e">mapa EG povinností</a> je povinnost a potřeba v jednotlivých úřadech si zpracovat zhodnocení plnění povinnosti - tzv. assesment povinností. Ten budou orgány veřejné správy potřebovat pro část svojí Informační koncepce a také poslouží jako motivace ke zlepšení plnění povinností a jakási roadmapa jak si všechny obecné povinnosti řádně plnit.
+</p>
+</div>
+<div id="outline-container-org7099cdf" class="outline-3">
+<h3 id="org7099cdf"><span class="section-number-3">2.1</span> <span class="done HOTOVO">HOTOVO</span> Co je to assessment povinností a proč jej dělat</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Assessment povinností je dokumentem, respektive daty, v nichž si subjekt vyhodnotí, jaké má základní EG povinnosti a jak je naplňuje. U každé povinnosti uvede míru jejich plnění a také postup, jak případné nedostatky v jejich naplňování opravit. 
+</p>
+
+<p>
+Je to tedy jednak znalost o povinnostech, jednak přehled zodpovědnosti za sledování jejich plnění a jednak roadmapa k odstranění systémových nedostatků v rámci digitalizace a eGovernmentu.
+</p>
+
+<p>
+Assessment se stává z tabulky obsahující:
+</p>
+
+<ul class="org-ul">
+<li>Jednotlivé povinnosti</li>
+<li>Obecný stav jejich plnění</li>
+<li>Uvedení zodpovědnosti za sledování povinnosti v rámci úřadu</li>
+<li>Prioritizaci a časovou mapu nápravy nedostatků</li>
+<li>Vyhodnocení postupu při aktualizacích assessmentu</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org977ff16" class="outline-3">
+<h3 id="org977ff16"><span class="section-number-3">2.2</span> <span class="done HOTOVO">HOTOVO</span> Jak si zpracovat assessment povinností pro svůj úřad</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Assessment/zhodnocení stavu plnění povinností by si měl úřad vytvořit co nejdříve, nejpozději při přípravě nové informační koncepce. 
+</p>
+
+<p>
+Lze doporučit následující obecný postup:
+</p>
+
+<ol class="org-ol">
+<li>stáhnout si seznamy povinností z Mapy povinností</li>
+<li>u každé povinnosti si určit, zda ji v rámci úřadu naplňuje či nikoliv a nebo alespoň částečně. Doporučuje se k tomuto zhodnocení využít jednotný číselník.</li>
+<li>u těch povinností, kde není stav naplňování uspokojivý, se doporučuje u nápravy uvést prioritu 1 až 3. Priorita se určuje podle důležitosti povinnosti, nikoliv podle náročnosti opatření k nápravě plnění.</li>
+<li>Pro každou povinnost se určí někdo, kdo zodpovídá za sledování stavu naplnění napříč celým úřadem a kdo bude postupně vyhodnocovat změny v jejím plnění.</li>
+</ol>
+
+<p>
+Údaje je vhodné udržovat ve formě dat, tedy nikoliv jako statický textový dokument, ale jako data, jež je možné v určitém čase exportovat a z toho pak tvořit dokument se zhodnocením zafixovaným v daném čase.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8486119" class="outline-3">
+<h3 id="org8486119"><span class="section-number-3">2.3</span> <span class="done HOTOVO">HOTOVO</span> K čemu a jak použít znalosti získané při mapování plnění povinností</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Znalosti získané z Mapy povinností a z Assessmentu plnění povinností mají v úřadu celou řadu využití. Níže uvádíme jen některé základní příklady:
+</p>
+</div>
+<div id="outline-container-orgd9cccbf" class="outline-4">
+<h4 id="orgd9cccbf"><span class="section-number-4">2.3.1</span> <span class="done HOTOVO">HOTOVO</span> Použití pro zlepšení plnění povinností</h4>
+<div class="outline-text-4" id="text-2-3-1">
+<p>
+Zpracuje se základní přehled, jaké povinnosti musí daný subjekt plnit. Má tedy povědomost o svých povinnostech a základní znalosti, aby mohl určit zodpovědnost za jejich plnění a také potřeby a postup v situaci, kdy si je neplní zcela řádně. Slouží jako základní znalost byznysové architektury na obecné úrovni a v některých schopnostech.
+</p>
+</div>
+</div>
+<div id="outline-container-orge53bab2" class="outline-4">
+<h4 id="orge53bab2"><span class="section-number-4">2.3.2</span> <span class="done HOTOVO">HOTOVO</span> Použití do informační koncepce OVS</h4>
+<div class="outline-text-4" id="text-2-3-2">
+<p>
+Informační koncepce OVS ve své nové struktuře a novém pojetí podle návrhu 
+<a href="https://archi.gov.cz/znalostni_baze:ik_ovs">Osnovy Informační koncepce OVS</a>. Nová IK OVS počítá ve své jedné části se zmapováním povinností stanovených danému suvjektu v rámci ICT a oblastí, jež řídí IK OVS a také k postupnému vyhodnocování. To předpokládá znalost těchto povinností a zpracovaný assessment. Ten je tak defacto jednou z příloh IK OVS.
+</p>
+</div>
+</div>
+<div id="outline-container-org19ca059" class="outline-4">
+<h4 id="org19ca059"><span class="section-number-4">2.3.3</span> <span class="done HOTOVO">HOTOVO</span> Použití pro stanovení zodpovědností</h4>
+<div class="outline-text-4" id="text-2-3-3">
+<p>
+V souladu se Zásadou řízení ICT Z7: Řízení zodpovědnosti za služby a systémy se musí určit a sledovat i zodpovědnost jednak za udržování a vyhodnocování assessmentu plnění povinností a jednak za plnění jednotlivých povinností. U každé z nich by měl mít úřad jasno, kdo sleduje jak se tato konkrétní povinnost plní. Vzhledem k tomu, že se u EG povinností jedná o obecné povinnosti vázané zejména na společné schopnosti úřadu, neurčuje se, kdo konkrétně řeší povinnost v jednotlivých agendách, ale kdo její plnění má nastarosti přes celý úřad a pomáhá s tím jednotlivým věcným správcům.
+</p>
+</div>
+</div>
+<div id="outline-container-orga42496f" class="outline-4">
+<h4 id="orga42496f"><span class="section-number-4">2.3.4</span> <span class="done HOTOVO">HOTOVO</span> Použití pro splnění souladu se zásadami z Informační koncepce ČR</h4>
+<div class="outline-text-4" id="text-2-3-4">
+<p>
+Jednou z povinností úřadu je plnit závazné principy a zásady uvedené v IKČR, a to jak souladem své informační koncepce, ale i faktickým souladem při realizaci řízení ICT a informačních činnostech. Pro celou řadu zásad je doslova nezbytné znát související povinnosti a umět si říci, kdo je za jejich plnění zodpovědný a jak se plní. Assessment je tak zdrojem kupříkladu pro plnění zásady č. 2, 3, 4, 5, 7, 9, 14.*** NEZAHÁJENO Použití pro řízení a rozvoj architektury a architektonických znalostí
+</p>
+</div>
+</div>
+<div id="outline-container-orgb942081" class="outline-4">
+<h4 id="orgb942081"><span class="section-number-4">2.3.5</span> <span class="done HOTOVO">HOTOVO</span> Použití pro zlepšení řízení ICT</h4>
+<div class="outline-text-4" id="text-2-3-5">
+<p>
+V rámci povinností Informační koncepce ČR a doporučení Metod řízení ICT ve veřejné správě se počítá s tím, že úřad má detailní znalost o obecných EG povinnostech. Součástí je tedy seznam povinností, v rámci řízení a rozvoje ICT a spolupráce s dalšími odbornými útvary i uvedení zodpovědnosti (včetně zodpovědnosti dělené mezi odborný útvar a ICT) a také výsledek zhodnocení v assessmentu jako plán rozvoje ICT a jeho řízení. ICT je v celé řadě gestorem za schopnosti a oblasti týkající se digitalizace a elektronizace, společně s architekturou a vedením úřadu pak určuje roadmapu rozvoje ICT a služeb a také zajišťuje technické prostředky pro rozvoj informačních systémů a služeb. I zde je tedy assessment neocenitelným zdrojem znalostí.
+</p>
+</div>
+</div>
+<div id="outline-container-org6a96446" class="outline-4">
+<h4 id="org6a96446"><span class="section-number-4">2.3.6</span> <span class="done HOTOVO">HOTOVO</span> Použití pro zlepšení služeb a jejich řízení</h4>
+<div class="outline-text-4" id="text-2-3-6">
+<p>
+Dalším využitím assessmentu je podklad pro řízení služeb, a to zejména tam, kde z obecně definované povinnosti plyne nějaký vztah k poskytovaným službám. U služeb týkajících se samotného ICT a eGovernmentu jsou tyto vztahy zcela jasné, ale nesmí se zapomínat ani na na první pohled nejasné souvislosti, kupříkladu má-li úřad obecnou povinnost související s digitalizací či elektronickou komunikací, musí ji promítnout do všech svých agend, činností, procesů a pochopitelně i služeb. I proto je nutné znalosti z assessmentu využít pro správné fungování a zlepšování služeb.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org9d660b4" class="outline-3">
+<h3 id="org9d660b4"><span class="section-number-3">2.4</span> <span class="done HOTOVO">HOTOVO</span> Aktualizace assessmentu povinností</h3>
+<div class="outline-text-3" id="text-2-4">
+<p>
+Stejně tak, jako se postupně aktualizují znalosti o povinnostech v rámci Mapy povinností, je nezbytné aktualizovat i zhodnocení povinností. To je nutné zejména pro správné mapování služeb a je to povinností zejména pro úřady a orgány veřejné moci a orgány veřejné správy, jež aktualizaci využijí při aktualizaci a vyhodnocování své informační koncepce.
+</p>
+
+<p>
+Při aktualizaci assessmentu je vhodné provést dvě věci:
+</p>
+
+<ol class="org-ol">
+<li>Pravidelné vyhodnocování postupu assessmentu zejména u těch povinností, kde se ve zhodnocení konstatovalo, že nejsou zcela správně naplňovány a i toto doplňovat v průběžné aktualizaci Informační koncepce OVS a učinit to také součástí zhodnocení IK.</li>
+<li>Přidání nově doplněných povinností po jejich vzniku v Mapě povinností a provedení jejich prvotního zhodnocení a zapracování do další aktualizace Informační koncepce OVS</li>
+</ol>
+
+
+<p>
+Aktualizaci je nejvhodnější udělat v ročních intervalech v rámci procesu vyhodnocení plnění informační koncepce a její aktualizace, neboť assessment je přílohou IK. 
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Datum: 2021-01-22 pá 00:00</p>
+<p class="author">Autor: skupina partnerů a realizátor projektu Digitální úřad</p>
+<p class="date">Vytvořeno: 2021-01-22 pá 10:09</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -10,6 +10,8 @@ Všechno začíná a končí legislativním rámcem. Tedy především právním
 
 Vyznat se v legislativní džungli není snadné a proto jsme připravili stručný, ale doufejme výstižný přehled toho nejdůležitějšího.
 
+V rámci Otevřených metodik jsme pro vás připravili také [Podrobný popis obsahu vybraných předpi](http://www.openczeg.cz//otevrene-metodiky/legislativa/eg-legislativa-podrobny-popis/#z%C3%A1kon-%C4%8D-2972016-sb-o-slu%C5%BEb%C3%A1ch-vytv%C3%A1%C5%99ej%C3%ADc%C3%ADch-d%C5%AFv%C4%9Bru-pro-elektronick%C3%A9-transakce)
+
 Ve strukturovaném seznamu níže jsou uvedeny ty nejdůležitější předpisy, které se týkají oblasti egovernmentu a elektronizace:
 
 -   Právní předpis **Zákon 111/2009 o základních registrech**: Zákon č. 111/2009 Sb., o základních registrech / Upravuje existenci základních registrů a povinnosti související s jejich využíváním a s propojováním s informačními systémy. / <http://www.zakonyprolidi.cz/cs/2009-111>
