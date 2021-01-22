@@ -1,6 +1,6 @@
 ---
 title: "Nová sekce Legislativa a hned dva nové materiály pro vás"
-subtitle: "<ul><li>Vyznat se v právní džungli není nic jednoduchého, a to ani pro samotnou veřejnou správu.<li>eGovernment a digitalizace je ještě složitější a méně srozumitelná, než ostatní oblasti.<li>Proto jsme pro vás připravili několik novinek k legislativě, a to včetně unikátního přehledu klíčových zákonů."
+subtitle: "<ul><li>Vyznat se v právní džungli není nic jednoduchého, a to ani pro samotnou veřejnou správu.<li>eGovernment a digitalizace je ještě složitější a méně srozumitelná, než ostatní oblasti.<li>Proto jsme pro vás připravili několik novinek k legislativě, a to včetně unikátního přehledu klíčových zákonů.</ul>"
 category: [clanky]
 author: Vladimír Dvořák
 tags: [Legislativa, Otevřené metodiky, Znalosti]
