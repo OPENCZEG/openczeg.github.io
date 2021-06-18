@@ -1,12 +1,12 @@
 ---
 title: "27 obecných povinností podle práva na digitální služby, na které se musí úřady připravit"
-subtitle: "<ul><li>Mapa EG povinností slouží k poznání povinností jež musejí úřady naplňovat.<li>Zákon 12/2020 o právu na digitální služby stanoví celkem 43 povinností.<li>27 z nich platí obecně pro celou veřejnou správu a jde o zcela zásadní věci.</ul>"
+subtitle: "<ul><li>Mapa EG povinností slouží k poznání povinností, jež musejí úřady naplňovat.<li>Zákon 12/2020 o právu na digitální služby stanoví celkem 43 povinností.<li>27 z nich platí obecně pro celou veřejnou správu a jde o zcela zásadní věci.</ul>"
 category: [clanky]
 author: Michal Rada
 tags: [Mapa povinností, PDS, Znalosti]
 ---
 
-Zákon 12/2020 o právu na digitální služby stále hýbe českým eGovernmentem a zdá se, že i přes jeho význam se na něj úřady stále moc neumí připravit. Je prostě tak komplexní, že moc nikdo neví jak do toho. Jaké obecné povinnosti vlastně přináší?
+Zákon 12/2020 o právu na digitální služby stále hýbe českým eGovernmentem a zdá se, že i přes jeho význam se na něj úřady stále moc neumějí připravit. Je prostě tak komplexní, že moc nikdo neví, jak do toho. Jaké obecné povinnosti vlastně přináší?
 
 Zákon o právu na digitální služby (PDS) je klíčovým novým předpisem, kromě toho se jím ale mění spousta EG zákonů. Ostatně, můžete se podívat na [detailní rozbor zákona 12/2020](http://www.openczeg.cz//otevrene-metodiky/legislativa/pds_rozbor/) zveřejněný v rámci webu Otevřené metodiky.
 
@@ -42,6 +42,6 @@ V Mapě EG povinností je u tohoto zákona nyní evidováno celkem 43 povinnost�
 
 
 
-Veškeré povinnosti nejen k PDS naleznete na veřejné [Mapě EG povinností](https://openczeg.CZ/povinnosti)
+Veškeré povinnosti, nejen k PDS, naleznete na veřejné [Mapě EG povinností](https://openczeg.CZ/povinnosti)
 
-Na tyto obecné věci se musí úřady dost rychle připravit a musí s nimi počítat zejména při rozvoji svých informačních systémů a při modelování jejich byznysových služeb. Jak zaznělo na poslední schůzi pracovní skupiny architektů RVIS, to nejhorší co by úřady mohly udělat, je strkat hlavu do písku.
+Na tyto obecné věci se musí úřady dost rychle připravit a musí s nimi počítat zejména při rozvoji svých informačních systémů a při modelování jejich byznysových služeb. Jak zaznělo na poslední schůzi pracovní skupiny architektů RVIS, to nejhorší, co by úřady mohly udělat, je strkat hlavu do písku.
