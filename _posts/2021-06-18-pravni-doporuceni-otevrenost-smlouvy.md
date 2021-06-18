@@ -2,7 +2,7 @@
 title: "Open-source aliance zveřejnila doporučení na právní ustanovení do smluv k otevřenosti ICT"
 subtitle: "<ul><li>IKČR a mechanismus transparentnosti a anti-vendor-lockin udává povinnost nasazovat otevřená řešení a vyrovnané partnerství s dodavatelem.<li>Společnost Havel a partners v rámci Pracovního výboru pro legislativou při OA připravila právní požadavky a doporučení.<li>Toto doporučení slouźí nejen jako inspirace jak do toho, ale i jako zásobník předpřipravených a rovnou použitelných ustanovení do smluv.</ul>"
 category: [dokumenty]
-author: Open-source alinace
+author: Open-source aliance
 tags: [Dokumenty, Metodiky, Otevřenost, Opensource, Smlouvy, Právní věci]
 ---
 
