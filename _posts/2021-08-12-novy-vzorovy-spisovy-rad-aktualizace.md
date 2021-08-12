@@ -1,6 +1,7 @@
 ---
-title: "Byl aktualizován a dokončen moderní vzorový spisový řád.  Pro menší původce
-subtitle: "<ul><li>Jste malý původce a čeká vás tvorba spisového řádu a nevíte jak do toho?<li>Přijdou vám dosud publikované spisové řády nesmyslné a nemoderní? Máte pravdu.<li>Byl připraven zcela nově koncipovaný vzorový spisový řád a ten je teď v aktualizované verzi 1.0 i s dokumentací a návodem.</ul> category: [clanky]
+title: "Byl aktualizován a dokončen moderní vzorový spisový řád.  Pro menší původce"
+subtitle: "<ul><li>Jste malý původce a čeká vás tvorba spisového řádu a nevíte jak do toho?<li>Přijdou vám dosud publikované spisové řády nesmyslné a nemoderní? Máte pravdu.<li>Byl připraven zcela nově koncipovaný vzorový spisový řád a ten je teď v aktualizované verzi 1.0 i s dokumentací a návodem.</ul>"
+category: [clanky]
 author: Redakce
 tags: [ESSL, Spisová služba, Metodiky, Vzory]
 ---
