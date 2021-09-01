@@ -1,5 +1,5 @@
 ---
-title: "Analýza soućasného stavu a výhledu eGovernmentu - výstup projektu Digitální úřad"
+title: "Analýza současného stavu a výhledu eGovernmentu - výstup projektu Digitální úřad"
 subtitle: "<ul><li>Zveřejňujeme jeden z výstupů projektu Digitální úřad - analýzu současného stavu EG<li>Analýza obsahuje zhodnocení plnění závazků veřejné správy a co obecně chybí.<li>Obsahuje také přehled toho nejdůležitějšího co nás čeká.</ul>"
 category: [dokumenty]
 author: DigiCode
