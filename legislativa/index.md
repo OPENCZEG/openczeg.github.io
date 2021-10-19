@@ -2,13 +2,17 @@
 title: Legislativa
 subtitle: Jaké předpisy jsou klíčové pro oblast elektronizace a digitalizace veřejné správy a co tyto hlavní předpisy obsahují
 order: 2
-date: 2021-01-21
+date: 2021-10-19
 tags: [Legislativa, Sekce, Znalosti, Přehledy]
 ---
 
 Všechno začíná a končí legislativním rámcem. Tedy především právními předpisy (zákony, vyhlášky, nařízení vlády). Do legislativního rámce ale lze počítat i závazné dokumenty a předpisy jiného typu (usnesení vlády, závazné dokumenty stanovené zákonem, apod.).
 
 Vyznat se v legislativní džungli není snadné a proto jsme připravili stručný, ale doufejme výstižný přehled toho nejdůležitějšího.
+
+
+![Diagram Klíčová EG legislativa](https://gitlab.com/egdilna/architektura-eg-urad/-/raw/Schv%C3%A1len%C3%A9/diagramy/Kl%C3%AD%C4%8Dov%C3%A1-EG-legislativa.png)
+
 
 V rámci Otevřených metodik jsme pro vás připravili také [Podrobný popis obsahu vybraných předpi](http://www.openczeg.cz//otevrene-metodiky/legislativa/eg-legislativa-podrobny-popis/#z%C3%A1kon-%C4%8D-2972016-sb-o-slu%C5%BEb%C3%A1ch-vytv%C3%A1%C5%99ej%C3%ADc%C3%ADch-d%C5%AFv%C4%9Bru-pro-elektronick%C3%A9-transakce)
 
