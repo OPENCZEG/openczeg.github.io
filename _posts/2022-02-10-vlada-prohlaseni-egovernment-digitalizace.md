@@ -3,7 +3,7 @@ title: "Co vláda slibuje k eGovernmentu? Všech 64 EG opatření na jednom mís
 subtitle: "<ul><li>Už pár týdnů máme novou vládu a její prohlášení.<li>Slibuje celkem 64 významných konkrétních úkolů v digitalizaci.<li>Některá z nich jsou povinnosti ze zákona, jiná jsou ambiciózními změnami.<//ul>"
 category: clanky
 author: Michal Rada
-Ttgs: [Vláda, eGovernment, Veřejná správa, Digitalizace, Otevřenost, Open government]
+tags: [Vláda, eGovernment, Veřejná správa, Digitalizace, Otevřenost, Open government]
 date: 2022-02-10
 ---
 
