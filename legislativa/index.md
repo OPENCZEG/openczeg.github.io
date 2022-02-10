@@ -4,6 +4,7 @@ subtitle: Jaké předpisy jsou klíčové pro oblast elektronizace a digitalizac
 order: 2
 date: 2021-10-19
 tags: [Legislativa, Sekce, Znalosti, Přehledy]
+layout: page
 ---
 
 Všechno začíná a končí legislativním rámcem. Tedy především právními předpisy (zákony, vyhlášky, nařízení vlády). Do legislativního rámce ale lze počítat i závazné dokumenty a předpisy jiného typu (usnesení vlády, závazné dokumenty stanovené zákonem, apod.).

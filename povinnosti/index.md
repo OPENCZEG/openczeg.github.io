@@ -3,6 +3,7 @@ title: Povinnosti
 order: 3
 date: 2021-01-22
 subtitle: Dokumentace a výsledky aktivity Mapa EG povinností
+layout: page
 ---
 
 Úřady mají v souvislosti se svojí činností a prací řadu povinností. V téhle sekci se budeme věnovat jen těm základním, které se týkají eGovernmentu.
