@@ -27,7 +27,7 @@ theme_settings:
     
   header_text_feature_image:
   footer_text: >
-    <p>© 2020 <a href="http://www.osaliance.cz">Opensource aliance</a> | <a href="/zapojte-se.html">Zapojte se</a></p>
+    <p>© 2020-2022 <a href="http://www.osaliance.cz">Opensource aliance</a> | <a href="/zapojte-se.html">Zapojte se</a></p>
 
   # Icons
   rss: true
@@ -79,7 +79,7 @@ theme_settings:
   post_navigation: true
 
 # PAGINATION
-paginate: 10
+paginate: 1000
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS

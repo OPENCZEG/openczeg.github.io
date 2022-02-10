@@ -1,0 +1,16 @@
+---
+title: "Čeká nás aktualizace Mapy povinností"
+category: [clanky]
+author: Michal Rada
+tags: [Mapa povinností, Povinnosti, Autorské články, Co se děje]
+---
+
+S [mapou povinností](https://www.openczeg.CZ/povinnosti) se nejen úředníci a manažeři ve veřejné správě setkávají dost často. Pomáhá úřadům zjistit, jaké obecné povinnosti k elektronizaci a digitalizaci vlastně mají. A využijí ji třeba i při tvorbě assessmentu pro vlastní informační koncepci úřadu a pomáhá dokonce i tvůrcům národní architektury. Její aktuální platná verze obsahuje přes 360 jednotlivých povinností z celé řady zákonů. Čeká nás ale velká práce s její aktualizací, neboť DEPO podstatně mění pravidla hry a tomu se tedy musí přizpůsobit i mapa povinností.
+
+Mapa vznikla jako nápad v hlavách architektů z OHA už v roce 2018, realizovat se ji podařilo bohužel ale až v loňském roce, a to díky projektu Digitální úřad. Jde o přehled obecných povinností eGovernmentu, které jinak v Registrech práv a povinností nenajdeme. Za touto aktivitou stojí podrobná dekompozice klíčových zákonů a detailní seznam povinností s uvedením konkrétních ustanovení, jež je ukládají. Ostatně, můžete si přečíst její podrobnou dokumentaci, procházet si ji v přehledné webové aplikaci a nebo si ji stáhnout jako otevřená data. Vše najdete v sekci Povinnosti.
+
+Údaje v mapě jsou stále aktuální, ale nebude to trvat dlouho a už nebudou. Může za to takzvané DEPO, tedy zákon 261/2021, který podstatným způsobem mění všechny EG zákony. A to znamená, že musíme aktualizovat i mapu povinností. Některé povinnosti zmizí, jiné budou nahrazeny novými a některé se jen upraví. Ono se to nezdá, ale je za tím mnoho desítek hodin práce. 
+
+V těchto dnech finalizujeme připravovaný detailní rozbor celého zákona 261/2021 a zároveň tím i zjišťujeme, kterých povinností se to týká. Pomáhá nám v tom fakt, že jedním z jedinečných přínosů mapy je, že u každé povinnosti je uvedeno i konkrétní ustanovení zákona. A ne vždy se jedná jen o jedno ustanovení. Naopak, z jediného ustanovení může plynout několik povinností. Technické řešení se tedy nabízí samo. Propojit povinnosti s konkrétními fragmenty (ustanoveními) zákona, ať už v testovací verzi eSbírky, nebo třeba na [ZPL](https://www.zakonyprolidi.CZ, a pak to ještě propojit s tím, které fragmenty se mění. A výsledek i nás překvapil. Nebudeme nudit hromadou čísel a řekneme si pouze závěr. DEPO mění nějakým způsobem skoro tři čtvrtiny všech ustanovení v EG zákonech, více jak 60 procent pak významně. Přesná čísla u samotné mapy povinností ještě nemáme, ale odhadujeme, že k nějakým změnám dojde přinejmenším u poloviny z nich. Navíc se ukázalo, že aktualizovat a především nahrazovat povinnosti je časově náročnější, než bylo vytvoření jejich aktuální verze. Takže nás čeká mnoho hodin sezení v zasedačce s velkou konví️ a mnoha baleními náhradních nervů. Ale už teď se těšíme na výsledek.
+
+A kdy se aktualizace objeví? Očekáváme ji koncem září, je to opravdu velké množství práce několika lidí. Dvěma lidem bych ale rád na tomto místě poděkoval zvlášť. Troufám si říci, že bez Vladimíra Dvořáka a Tomáše Slámy by mapa povinností nejen nevznikla, ale ani by se nedařilo ji udržovat.   
