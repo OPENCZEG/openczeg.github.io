@@ -2,7 +2,7 @@
 title: "Poznáváme Archimate - česky"
 subtitle: "V rámci naší aktivity Otevřené metodiky jsme publikovali první verzi učebních textů v češtiné o jazyce Archimate pro nearchitekty."
 author: Michal Rada
-tags: [archimate, architektura, vzdělávání, naše práce, otevřené metodiky, Aktivity, Znalosti]
+tags: [Architektura, Vzdělávání, Naše práce, Otevřené metodiky, Aktivity, Znalosti]
 categories: informace
 ---
 

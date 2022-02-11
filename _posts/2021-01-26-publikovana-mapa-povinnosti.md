@@ -3,7 +3,7 @@ title: "Připravujeme unikátní Mapu EG povinností"
 subtitle: "<ul><li>Jednou ze základních znalostí nejen pro úřady je znát svoje povinnosti a jak je naplnit.<li>Osnova informační koncepce OVS a celá řada zásad IKČR očekává zhodnocení plnění povinností eGovernmentu.<li>V rámci projektu Digitální úřad připravujeme a veřejné publikujeme zcela unikátní soubor obecných EG povinností využitelný nejen pro úřady.</ul>"
 category: [clanky]
 author: Vladimír Dvořák
-tags: [Mapa povinností, Výstupy, Znalosti, Veřejná správa, eGovernment, Povinnosti, Naše práce, digiúřadOpendata]
+tags: [Mapa povinností, Výstupy, Znalosti, Veřejná správa, eGovernment, Povinnosti, Naše práce, Digiúřad, Opendata]
 ---
 
 Den 22. ledna 2021 můžeme definovat jako den významný pro oblast českého eGovernmentu a digitalizace. Byla totiž, za přispění projektu Digitální úřad v součinnosti s Open-source aliancí a partnery, elektronickou formou publikována Mapa EG povinností, která je dostupná jako sada otevřených dat všem, hlavně však těm subjektům, které jsou z profesní a legislativní stránky věci zavázáni povinnosti naplňovat, tedy pro úřady, orgány veřejné moci a další subjekty.

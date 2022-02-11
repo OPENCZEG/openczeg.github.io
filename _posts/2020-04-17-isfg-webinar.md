@@ -3,7 +3,7 @@ title: Nenechte si ujít webinář Státní digitalizace porazí pandemii a zabr
 author: Open-source Aliance
 layout: post
 category: aviza
-tags: [Edukace, egovernment, Open-source Aliance, Akce, Avíza, Vzdělávání, Přednášky, Mimořádné události]
+tags: [Edukace, eGovernment, Open-source Aliance, Akce, Avíza, Vzdělávání, Přednášky, Mimořádné události]
 date: 2020-04-17
 ---
 

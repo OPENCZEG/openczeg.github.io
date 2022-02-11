@@ -2,7 +2,7 @@
 title: První sada požadavků na otevřenou integraci jde do diskuse uvnitř Open-source Aliance
 subtitle: "<ul><li>Otevřenost ve veřejných zakázkách je nutno nejen deklarovat, ale také realizovat.<li>Jako náhled první skupiny požadavků na VZ je připravena sada požadavků na otevřenou integraci<li>Již nyní tyto požadavky uvítají úřady pro úpravy stávajících vztahů s dodavateli</ul>"
 category: clanky
-tags: [Open-source Aliance, Vzorové požadavky, Otevřenost, Veřejné zakázky, aktivity, Naše práce, Právní věci, Připomínkování, Smlouvy, Vzory]
+tags: [Open-source Aliance, Vzorové požadavky, Otevřenost, Veřejné zakázky, Aktivity, Naše práce, Právní věci, Připomínkování, Smlouvy, Vzory, Veřejná správa]
 date: 2022-02-11
 ---
 

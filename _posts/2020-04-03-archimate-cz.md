@@ -2,8 +2,8 @@
 title: "Český popis elementů jazyka Archimate je na Githubu"
 subtitle: "Jako první viditelný počin v rámci projektu #openczeg jsme vydali první preverzi českého popisu jazyka Archimate."
 author: Michal Rada
-tags: [git, archimate, architektura, vzdělávání]
-categories: [architektura]
+tags: [GIT, Architektura, Vzdělávání, Edukace]
+categories: informace
 ---
 Jazyk Archimate znají všichni, kdo někdy viděli nákres architektury ve veřejné správě. Pro ty, kteří vůbec netuší o čem je řeč, jsou to "ty obrázky s žlutými, modrými, fialovými, oranžovými a zelenými obdélníčky a šipčičkami". Jazyk Archimate je sice docela jednodeuchý, ale přesto je nutné si ho alespoň trochu osvojit. Architekti nechť se ho naučí a používají celý. Ale co ti, kdo mají pracovat s jeho výstupy a architekti to nejsou? T
 Pro ty jsme v Opensource alianci připravili stručný set učebních materiálů Archimate v češtině. A budeme ho dál rozšiřovat.
