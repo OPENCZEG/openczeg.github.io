@@ -1,9 +1,9 @@
 ---
 title: Návrh vyhlášky o seznamu položek popisu informačního systému veřejné správy
-subtitle: <ul>Nová vyhláška nahrazuje starou úpravu informací o jednotlivých systémech <li> Kromě základních informací se povedou i údaje o projektových fázích <li> Bude obsahovat nově i základní aplikační architekturu systému </ul>
+subtitle: "<ul>Nová vyhláška nahrazuje starou úpravu informací o jednotlivých systémech <li> Kromě základních informací se povedou i údaje o projektových fázích <li> Bude obsahovat nově i základní aplikační architekturu systému </ul>"
 author: openczeg
 category: informace
-tags: Legislativa, ISVS, Povinnosti, Co nás čeká, Opendata]
+tags: [Legislativa, ISVS, Povinnosti, Co nás čeká, Opendata]
 ---
 
 Ministerstvo vnitra připravilo návrh zcela nové vyhlášky, kterou se stanoví seznam toho, co musí správce zapsat do centrálního systému o všech informačních systémech veřejné správy. Od srpna letošního roku se totiž mění povinnosti pro správce systémů. Vyhláška obsahuje do té doby zcela nevídané věci, jako je aplikační architektura. Za návrh chválíme. 
