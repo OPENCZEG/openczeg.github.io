@@ -2,7 +2,7 @@
 title: Je open-source povinnost?
 subtitle: <ul><li>Veřejná správa začíná open-source brát už opravdu vážně. Je to dobrovolné, nebo musí?<li>Možná vás překvapí, že využívání open-source je de facto povinnost.<li>Kde je to zakotveno a co to znamená?</ul>
 author: Michal Rada
-tags: [Národní architektura, opensource, povinnosti, Autorské články, Veřejná správa, Povinnosti, Open-source Aliance]
+tags: [Národní architektura, Opensource, Povinnosti, Autorské články, Veřejná správa, Open-source Aliance, Znalosti, Otevřenost]
 categories: [clanky]
 ---
 

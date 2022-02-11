@@ -1,9 +1,9 @@
 ---
 title: "Národní architektonický plán a jeho uživatelé dostávají dárek k výročí - metodiku jak s NAPem pracovat"
-category: [clanky]
+category: informace
 subtitle: "<ul><li>Národní architektonický plán jako nejzásadnější část závazného rámce Informační koncepce vyšel 1.9.2018.<li>Od té doby výrazně narostl a dnes je z něj všeříkající ale poněkud složité bludiště.<li>Nová metodika Jak s ním pracovat dává návodné postupy a rady pro všechny uživatele NAPu.</ul>"
 author: Michal Rada
-tags: [Znalosti, eGovernment, Národní architektura, NAP, Metodiky, Dokumenty, Naše práce]
+tags: [Znalosti, eGovernment, Národní Architektura, NAP, Metodiky, Dokumenty, Naše práce, Výstupy, Znalosti, Digiúřad]
 ---
 
 Dnes je první zářiový den. Toto datum je pro eGovernment dosti významné, neboť právě před třemi lety vydalo ministerstvo vnitra dokumenty Národní architektury. Dobře si vzpomínám na srpnové večery v práci. No, důležité je, že od té doby se z národní architektury stal základ veškerého konání veřejné správy. Součástí je i Národní architektonický plán (NAP). V něm sice najdete vlastně všechno, ale je dost složitý a málo kdo s ním umí pracovat. U příležitosti dnešního výročí NAPu vydáváme metodiku jak s ním pracovat. Nebojte, je to v listině.

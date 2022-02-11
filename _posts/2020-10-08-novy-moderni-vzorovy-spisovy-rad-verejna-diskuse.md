@@ -3,7 +3,7 @@ title: "ISFG připravila moderní odlehčený vzorový spisový řád pro elektr
 subtitle: "<ul><li>Jste malý původce a chcete elektronickou spisovou službu, ale nevíte jak si vytvořit spisový řád?<li>Společnost ISFG rámci Open-source aliance připravila univerzálně použitelný zcela nově pojatý vzorový spisový řád.<li>Je o dost odlehčený a má být srozumitelnější a jednodušší.<li>Nyní jde do veřejné diskuse ze které vzejdou připomínky pro první finální verzi.</ul>"
 category: [clanky]
 author: Redakce
-tags: [ESSL, Spisová služba, Metodiky, Vzory, Připomínkování, Open-source Aliance, Výstup, Naše práce]
+tags: [ESSL, Spisová služba, Metodiky, Vzory, Připomínkování, Open-source Aliance, Výstupy, Naše práce]
 ---
 
 Společnost Information systems factory group (ISFG) se mimo jiné zabývá i problematikou spisové služby. Kromě vývoje vlastního opensource řešení SpisUm chce působit také v oblasti metodické. Připravila zcela odlišně (a dost odlehčeně) pojatý vzorový spisový řád, který může použít každý především menší původce jež má či chce vykonávat elektronickou spisovou službu. Jedná se o první pracovní publikovanou verzi v0.1, která teď jde do veřejné diskuse a bude následovat posouzení připomínek a publikování první ostré verze.

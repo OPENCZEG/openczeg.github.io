@@ -3,7 +3,7 @@ title: "víte, co přináší DEPO? Přečtěte si jeho detailní rozbor."
 Subtitle: "<ul><li>Zákon 261/2021 DEPO je šestým nejdelším zákonem měnícím více jak 160 zákonů a to ve víc jak 3000 změnách.<li>Z toho 2300 změn je zcela zásadních pro eGovernment. A neexistuje k nim důvodová zpráva a ani jejich faktický přehled.<li>Připravili jsme tedy detailní rozbor celého zákona se soupisem všeho co se jak mění.</ul>"
 category: [clanky]
 author: Michal Rada
-tags: [Znalosti, legislativa, Otevřené metodiky, DEPO]
+tags: [Znalosti, Legislativa, Otevřené metodiky, DEPO, Co nás čeká, Analýzy, Výstupy]
 ---
 
 DEPO - tedy oficiálně Zákon č. 261/2021 Sb., o změně některých zákonů v souvislosti s další elektronizací postupů orgánů veřejné moci je obří změnou s dalekosáhlými důsledky. Mění doslova vše co se týče nejen elektronizace, ale i faktického fungování veřejné správy. A je také velice rozsáhlý, složitý a pro mnohé i dost nepřehledný. Po úspěchu s detailním rozborem zákona o právu na digitální služby jsme připravili a dnes po několika týdnech tvrdé práce publikujeme jeho detailní rozbor. Co tedy přináší a co bude znamenat?
