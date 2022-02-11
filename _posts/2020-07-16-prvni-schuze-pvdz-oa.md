@@ -1,6 +1,6 @@
 ---
 title: Poprvé se sešel Pracovní výbor pro digitalizaci zdravotnictví Open source aliance
-subtitle: <ul><li>Pracovní výbory jsou dělná tělesa Open source aliance, která se věnují vždy dané problematice<li>PV pro digitalizaci zdravotnictví se chce v první řadě věnovat možnostem open-source u zdravotnických zařízení a standardům<li>Na stole byly už i první konkrétní návrhy...</ul>
+subtitle: "<ul><li>Pracovní výbory jsou dělná tělesa Open source aliance, která se věnují vždy dané problematice<li>PV pro digitalizaci zdravotnictví se chce v první řadě věnovat možnostem open-source u zdravotnických zařízení a standardům<li>Na stole byly už i první konkrétní návrhy...</ul>"
 author: Michal Rada
 categories: [bleskovky]
 tags: [eHealth, Bleskovky, Akce, Open-source Aliance]
