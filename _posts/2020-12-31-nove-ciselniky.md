@@ -1,9 +1,9 @@
 ---
 title: "Poslední letošní dárek - nově publikované číselníky pro veřejnou správu"
 subtitle: "<ul><li>Jste orgánem veřejné moci a pátráte po číselnících, které musíte používat?<li>Celou řadu jich najdete třeba v Národním katalogu otevřených dat, nebo v Registru práv a povinností.<li>Jsou zde ale poněkud nově definované číselníky, které zatím moc nenajdete. A s tím jsme se rozhodli pomoci.</ul>"
-category: [clanky]
+category: informace
 author: Redakce
-tags: [číselníky, výstupy, data]
+tags: [číselníky, výstupy, data, Veřejná správa, Opendata, Opengovernment, digiúřad]
 ---
 
 Ještě pár hodin zbývá do konce roku a tak jsme si pro všechny připravili ještě jeden letošní povánoční dárek. Číselníky jsou povinnou součástí fungování veřejné správy. A zatímco některé se dají nalézt snadno a rychle, u jiných byste po jejich standardním publikování zatím pátrali marně. Proto jsme se rozhodli pomoci a pro potřeby veřejné správy postupně celou řadu číselníků připravit v závazném formátu a publikovat je.

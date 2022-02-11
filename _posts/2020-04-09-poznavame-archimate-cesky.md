@@ -2,8 +2,8 @@
 title: "Poznáváme Archimate - česky"
 subtitle: "V rámci naší aktivity Otevřené metodiky jsme publikovali první verzi učebních textů v češtiné o jazyce Archimate pro nearchitekty."
 author: Michal Rada
-tags: [archimate, architektura, vzdělávání, naše aktivity, otevřené metodiky]
-categories: [architektura]
+tags: [archimate, architektura, vzdělávání, naše práce, otevřené metodiky, Aktivity, Znalosti]
+categories: informace
 ---
 
 O jazyce Archimate® slyšel už asi každý ajťák ve veřejné správě. Pro architekty je to denní chleba a je to pomalu jejich mateřský jazyk. Ale co když architekt nejste a přesto musíte v rámci architektury umět alespoň základně porozumět co Archimate je, co jsou jaké jeho vrstvy a nebo se naučit číst diagramy v Archimate? Nebojte se, v rámci projektu #openczeg a #otevrene-metodiky vám s tím pomůžeme. V češtině a pro lajky.

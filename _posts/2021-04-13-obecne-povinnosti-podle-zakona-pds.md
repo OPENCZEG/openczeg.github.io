@@ -3,7 +3,7 @@ title: "27 obecných povinností podle práva na digitální služby, na které 
 subtitle: "<ul><li>Mapa EG povinností slouží k poznání povinností, jež musejí úřady naplňovat.<li>Zákon 12/2020 o právu na digitální služby stanoví celkem 43 povinností.<li>27 z nich platí obecně pro celou veřejnou správu a jde o zcela zásadní věci.</ul>"
 category: [clanky]
 author: Michal Rada
-tags: [Mapa povinností, PDS, Znalosti]
+tags: [Mapa povinností, PDS, Znalosti, Povinnosti, eGovernment]
 ---
 
 Zákon 12/2020 o právu na digitální služby stále hýbe českým eGovernmentem a zdá se, že i přes jeho význam se na něj úřady stále moc neumějí připravit. Je prostě tak komplexní, že moc nikdo neví, jak do toho. Jaké obecné povinnosti vlastně přináší?

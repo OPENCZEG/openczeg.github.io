@@ -1,9 +1,9 @@
 ---
 title: "Vznikla metodika pro úřady jak fungovat po dobu covidových omezení"
 subtitle: "<ul>Je opravdu těžká doba a narozdíl od první vlny, tahle bude zdá se delší a bude mít i víc dopadů.<li>Úřady často neví, jak za mimořádných situací mají správné fungovat, aby zároveň neporušily svoje povinnosti.<li>V rámci projektu Digitální úřad tedy vznikla metodika.</ul>"
-category: [clanky]
+category: informace
 author: Michal Rada
-tags: [Covid, Mimořádná situace, Metodiky, Výstup]
+tags: [Covid, Mimořádné situace, Metodiky, Výstupy, Veřejná správa, Naše práce, digiúřad]
 ---
 
 Realizátor projektu Digitální úřad spolu s partnery na základě výsledků analýzy úpravy agend veřejné správy za mimořádných situací připravili ucelenou praktickou metodiku, podle které mohou v mimořádné situaci úřady postupovat. Taková metodika veŕejné správné výrazně chyběla.

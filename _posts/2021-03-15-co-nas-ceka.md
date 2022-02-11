@@ -3,7 +3,7 @@ title: "Co zásadního čeká veřejnou správu v eGovernmentu?"
 subtitle: "<ul><li>Nejen Covidovou situací živa je veřejná správa. Musí také běžněpracovat.<li>V následujícím období přinese eGovernment řadu změn, jež dopadnou na všechny úřady.<li>Vybrali jsme ty, které jsou natolik významné, že by se na ně úřady měly dlouhodobě připravovat.</ul>"
 category: [clanky]
 author: Michal Rada
-tags: [Znalosti, eGovernment, Co nás čeká]
+tags: [Znalosti, eGovernment, Co nás čeká, Veřejná správa]
 ---
 
 Mohlo by se zdát, že snad teď ani nic jiného, než koronavirus neexistuje. I přes vážnost a závažnost situace je nutné myslet na stav, kdy se vše vrátí do normálu. A abychom se pak nedivili. Protože se všude (správně) tvrdí, že nastalá krizová situace je dobrým časem k sebezdokonalování a k realizaci věcí, na které za běžného provozu není čas, pojďme toho využít. Na jaké doslova bomby se veřejná správa stran pokračujícího eGovernmentu musí připravit a co jí čeká?

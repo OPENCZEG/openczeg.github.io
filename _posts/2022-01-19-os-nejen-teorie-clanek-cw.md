@@ -2,7 +2,7 @@
 title: "ComputerWorld: Otevřenost ICT ve veřejné správě už není jen teorie"
 Category: clanky
 Author: Open-source Aliance
-Tags: [Autorské články, Média, Veřejná správa, OpenGovernment, Open-source]
+Tags: [Autorské články, Média, Veřejná správa, OpenGovernment, Open-source, Open-source Aliance]
 date: 2022-01-19
 ---
 
