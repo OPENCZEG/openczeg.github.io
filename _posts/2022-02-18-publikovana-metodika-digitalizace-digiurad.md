@@ -1,6 +1,6 @@
 ---
 title: "V rámci projektu Digitální úřad je publikována ucelená metodika pro digitalizaci"
-subtitle: "<ul><li>Metodika obsahuje jak znalostní a teoretickou část, tak i praktické postupy pro digitalizaci v jednotlivých oblastech.<li>MKetodika je jedním z hlavních výstupů projektu Digitální úřad.<li>Je určena jak pro manažery v úřadecdh, tak pro odborné zaměstnance.</ul>""
+subtitle: "<ul><li>Metodika obsahuje jak znalostní a teoretickou část, tak i praktické postupy pro digitalizaci v jednotlivých oblastech.<li>MKetodika je jedním z hlavních výstupů projektu Digitální úřad.<li>Je určena jak pro manažery v úřadecdh, tak pro odborné zaměstnance.</ul>"
 category: dokumenty
 tags: [Digitalizace, Digiúřad, Dokumenty, Edukace, eGovernment, Metodiky, Naše výstupy, Otevřené metodiky, Vzdělávání, Veřejná správa]
 date: 2022-02-18
