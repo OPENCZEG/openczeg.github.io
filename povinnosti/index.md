@@ -6,6 +6,7 @@ subtitle: Dokumentace a výsledky aktivity Mapa EG povinností
 layout: page
 ---
 
+[Příspěvky zde se značkou Povinnosti](https://www.openczeg.cz/tags#povinnosti)
 Úřady mají v souvislosti se svojí činností a prací řadu povinností. V téhle sekci se budeme věnovat jen těm základním, které se týkají eGovernmentu.
 
 ## Mapa EG povinností

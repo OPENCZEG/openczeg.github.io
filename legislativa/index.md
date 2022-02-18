@@ -7,6 +7,8 @@ tags: [Legislativa, Sekce, Znalosti, Přehledy]
 layout: page
 ---
 
+[Příspěvky zde se značkou Legislativa](https://www.openczeg.cz/tags#Legislativa)
+
 Všechno začíná a končí legislativním rámcem. Tedy především právními předpisy (zákony, vyhlášky, nařízení vlády). Do legislativního rámce ale lze počítat i závazné dokumenty a předpisy jiného typu (usnesení vlády, závazné dokumenty stanovené zákonem, apod.).
 
 Vyznat se v legislativní džungli není snadné a proto jsme připravili stručný, ale doufejme výstižný přehled toho nejdůležitějšího.
