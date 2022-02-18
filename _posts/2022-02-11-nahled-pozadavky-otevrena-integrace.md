@@ -4,6 +4,7 @@ subtitle: "<ul><li>Otevřenost ve veřejných zakázkách je nutno nejen deklaro
 category: clanky
 tags: [Open-source Aliance, Vzorové požadavky, Otevřenost, Veřejné zakázky, Aktivity, Naše práce, Právní věci, Připomínkování, Smlouvy, Vzory, Veřejná správa]
 date: 2022-02-11
+author: Open-source Aliance
 ---
 
 Jedním z nejčastějších problémů tzv. vendor lock-inu je oblast integrace. Úřady moc neví, jaké požadavky na otevírání integrace s proprietárním systémem na dodavatele mít. S tímto dotazem se na Open-source Alianci obrátilo již několik úřadů. Proto se zpracovaly vzorové požadavky na otevřenou integraci, které se již nyní mohou prakticky použít. Co přináší?
