@@ -1,49 +1,22 @@
 ---
-title: "V rámci projektu Digitální úřad je publikována ucelená metodika pro digitalizaci"
-subtitle: "<ul><li>Metodika obsahuje jak znalostní a teoretickou část, tak i praktické postupy pro digitalizaci v jednotlivých oblastech.<li>MKetodika je jedním z hlavních výstupů projektu Digitální úřad.<li>Je určena jak pro manažery v úřadecdh, tak pro odborné zaměstnance.</ul>"
+title: "Co se (ne)změnilo v eGovernmentu za rok 2021? Smutné čtení aktualizace analýzy stavu EG."
+subtitle: "<ul><li>V rámci projektiu Digiúřad byla po roce zpracována aktualizace as-is stavu eGovernmentu.<li>Z identifikovaných více jak 50 problémů se nepodařilo vyřešit ani jeden.<li>Některé jsou rozpracované, ale výsledek nic moc.</ul>"
 category: dokumenty
-tags: [Digitalizace, Digiúřad, Dokumenty, Edukace, eGovernment, Metodiky, Naše výstupy, Otevřené metodiky, Vzdělávání, Veřejná správa]
-date: 2022-02-18
+tags: [Digitalizace, Digiúřad, Dokumenty,  eGovernment,  Naše výstupy,  Veřejná správa, Co nás čeká, Znalosti]
+date: 2022-03-11
 author: DigiCode
 ---
 
-Digitalizace je hezká věc, ale kdo s tím úřadům opravdu pomůže? K tomu byl určen projekt Digitální úřad, který byl financován z prostředků MPO. Jedním z jeho hlavních výstupů je i ucelená znalostní metodika pro digitalizaci v úřadu. A ta je teď k dispozici nejen úřadům, ale komukoliv, kdo má zájem.
+V roce 2020 byla zpracována [Analýza současného stavu eGovernmentu s identifikovanými problémy](http://www.openczeg.cz/dokumenty/2021/04/27/analyza-asis-eg.html). Už tehdy to nebylo veselé čtení. Nyní jsme připravili aktualizaci, kde jsme zhodnotili, co se stalo v roce 2021. A ani tentokrát se ČR za eGovernment moc pochválit nemůže.
 
-Citujeme z jedné z úvodních kapitol
+Tehdy zpracovaná analýza byla unikátní v tom, že se nejednalo o nějaká rétorická cvičení na základě řízených rozhovorů, ale hodnotili jsme opravdové závazné rámce (třeba z Informační koncepce ČR). Ten hlavní přínos byl ale v pojmenování konkrétních nedostatků a problémů, na něž jsme se jako stát měli zaměřit, aby to opravdu fungovalo. Po roce jsme se na tyto problémy podívali znovu a zzhodnotili jsme si, jestli se něco změnilo za rok 2021 a případně kam jsme se posunuli.
 
-Tato metodika obsahuje velké množství znalostí a odkazů na další zdroje. Je určena zejména úřadům, lze ji ale použít také při výuce a vzdělávání a odborné přípravě zaměstnanců úřadů zodpovědných za jejich efektivitu a fungování a za realizaci ICT. Metodika je rozdělena do dvou hlavních částí. Uvozuje je obecné shrnutí metodiky poskytující zejména manažerům to nejdůležitější. Část Legislativní a architektonický rámec a povinnosti - jak už její název napovídá, obsahuje podrobné vysvětlení zákonného rámce pro digitalizaci a rozvoj elektronického fungování veřejné správy a také informace o závažných částech architektury a využití Národní architektury ČR a architektury úřadu. V praktické části je pak také popsáno, jak pracovat s asi nejdůležitější částí architektury, a to dokumentem Národní architektonický plán. V rámci kapitoly Architektura úřadu se rozvádí jednotlivé oblasti architektury, které úřad musí v rámci rozvoje a budování architektury vytvářet a také je naplňovat. Část obsahuje i Legislativní rámec pro eGovernment a jeho podrobné vysvětlení. Jsou zde také uvedeny všechny obecné Povinnosti související s eGovernmentem a digitalizací. Konkrétní použití metodiky a znalostí je pochopitelně na každém. Nicméně, doporučujeme následující: Následuje část Digitalizace úřadu prakticky. V ní se kupříkladu rozebírají jednotlivé hlavní oblasti digitalizace, nástroje digitalizace a věnujeme se v ní také tomu, aby vnitřní digitalizace úřadu opravdu fungovala. Dozvíte se v ní mimo jiné i to, jak se řeší povinnosti informační koncepce úřadu. Na konci části jsou pak ještě vybrané doplňující postupy pro některé části digitalizace.
+V podrobném přehledu je tedy celkem 56 identifikovaných problémů. Bohužel, u 41 z nich lze konstatovat že problém dále trvá a tedy se jej nepodařilo vyřešit ani jej významně za uplynulý rok někam posunout. U 9 z nich vnímáme alespoň částečný posun správným směrem, nicméně vyřešen nebyl bohužel zcela ani jeden. Ostatní mají stav buď Příprava, nebo Práce, který je vždy řádně popsán.
 
-1.Vrcholoví manažeři si mohou pročíst jen stručné shrnutí metodiky a to by jim mělo pro vhled stačit.
-2.Osoby zodpovědné za vedení ICT a za digitalizaci si mohou pročíst část Digitalizace úřadu prakticky a podle ní buď postupovat, nebo ukládat související úkoly.
-3.Odborní pracovníci si musejí prostudovat nejprve Legislativní a architektonický rámec a povinnosti a podle zde získaných znalostí pak mohou realizovat úkoly digitalizace úřadu prakticky.
+To je dost smutné vyhodnocení celoroční práce. Je to o to smutnější, že veřejná správa si je všech těchto problémů moc dobře vědoma a politická reprezentace platná k počátku roku 2021 slibovala zlepšení veřejné správy a eGovernmentu. Připomeňme si také z původní analýzy, že většina těchto problémů nemá dosud systémové řešení. I přes dílčí úspěchy v novelizaci EG legislativy (přijetím zákona 261/2021) se tedy nic moc k lepšímu nemění. To pochopitelné dopadá nejen na klienty, ale také na samotnou veřejnou správu.
 
+Ale víte co? Podívejte se na to sami a sami si udělejte obrázek.
 
+- [Dokument Aktualizace stavu řešení identifikovaných problémů z Analýzy současného stavu EG - hodnocení za rok 2021](digiurad_aktualizace_asis_2021.pdf) si můžete stáhnout v PDF.
 
-Dokument je svým rozsahem poměrně obsáhlý. Z jeho obsahu uvádíme ty důležité kapitoly a podkapitoly, aby si uživatel dokázal představit, co dokument obsahuje, ještě než se do něj začte:
-
-- Úvod
-    - O projektu Digitální úřad
-    - O této metodice        
-    - Účel a použití        
-    - Vztah k ostatním výstupům        
-- Shrnutí metodiky        
-- Část Legislativní a architektonický rámec a povinnosti        
-    - Úvod do legislativy, architektury, povinností a rámců eGovernmentu        
-    - Legislativní rámec pro eGovernment a digitalizaci úřadu        
-    - Architektura a architektonický rámec        
-    - Referenční rámec z Registru práv a povinností       
-    - Rámec pro správu a výměnu údajů        
-    - Povinnosti související s eGovernmentem a digitalizací       
-- Část Digitalizace úřadu prakticky        
-    - Hlavní oblasti digitalizace        
-    - Nástroje digitalizace        
-    - Mantinely fungování úřadu a digitalizace        
-    - Výkon veřejné správy a poskytování služeb        
-    - Vnitřní digitalizace úřadu        
-- Doplňující postupy pro některé části digitalizace        
-    - Obecné dopady nového legislativního EG rámce na úřady        
-    - Jak číst a pracovat s Národním architektonickým plánem        
-    - Desatero hlavních kroků k otevřeným řešením ICT v úřadu        
-
-
-[Metodiku jako vždy naleznete na webu Otevřené metodiky, kde je i ke stažení](http://www.openczeg.cz//otevrene-metodiky/procesy/digiurad-metodika-digitalizace/)
+Analýzu i aktualizaci jsme mimochodem poskytli vládě a jejím představitelům, kteří mají EG k dispozici a vláda se jí bude zabývat. Slouží také pro prioritizaci a jako jeden ze zdrojů pro další práci ministra pro digitalizaci a ministra vnitra a odborných útvarů. Jsme tedy velice zvědaví, jak bude vypadat aktualizace za rok 2022.
