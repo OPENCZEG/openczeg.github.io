@@ -17,6 +17,6 @@ To je dost smutné vyhodnocení celoroční práce. Je to o to smutnější, že
 
 Ale víte co? Podívejte se na to sami a sami si udělejte obrázek.
 
-- [Dokument Aktualizace stavu řešení identifikovaných problémů z Analýzy současného stavu EG - hodnocení za rok 2021](digiurad_aktualizace_asis_2021.pdf) si můžete stáhnout v PDF.
+- [Dokument Aktualizace stavu řešení identifikovaných problémů z Analýzy současného stavu EG - hodnocení za rok 2021](http://egov.site44.com/pracovni/digiurad_aktualizace_asis_2021.pdf) si můžete stáhnout v PDF.
 
 Analýzu i aktualizaci jsme mimochodem poskytli vládě a jejím představitelům, kteří mají EG k dispozici a vláda se jí bude zabývat. Slouží také pro prioritizaci a jako jeden ze zdrojů pro další práci ministra pro digitalizaci a ministra vnitra a odborných útvarů. Jsme tedy velice zvědaví, jak bude vypadat aktualizace za rok 2022.
